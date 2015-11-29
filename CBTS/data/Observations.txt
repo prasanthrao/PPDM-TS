@@ -1,0 +1,6 @@
+For the included datasets here(Expected CSV format). Observations of ML algorithm outputs pre and post CBTS.
+Softwares Used
+- Weka
+List of Algorithms to be tests.
+- k means
+- C4.5
